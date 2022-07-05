@@ -7,6 +7,8 @@
 let handler = async (m, { conn, usedPrefix }) => {
     let tqto = `*BIG THANKS TO*
 
+Danzz:
+https://github.com/DanzGantevk75
 Nurutomo: 
 https://github.com/Nurutomo
 Istikmal: 
